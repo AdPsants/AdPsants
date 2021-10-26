@@ -16,6 +16,6 @@
   <img algin="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div></br>
 
-<b>Dev em formação, brilho nos olhos ao codar.
+<strong>Dev em formação, brilho nos olhos ao codar.</strong>
 
 
