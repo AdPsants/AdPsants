@@ -1,4 +1,4 @@
-### Olá eu sou o Adriano Santos 👋
+### Olá eu sou o Adriano Santos 👋 Seja bem vindo a minha exposição<br>💻 Desenvolvedor Front-End
 
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianopsants/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/APsants?utm_medium=android_app&utm_source=share)
@@ -7,7 +7,7 @@
 
 ![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=AdPsants&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia
+## Linguagens que trabalho ou estudo
 <div style="display: inline_block"></br>
   <img algin="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img algin="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,6 +16,6 @@
   <img algin="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div></br>
 
-<strong>Dev em formação, brilho nos olhos ao codar.</strong>
+<strong>Dev em formação, brilho nos olhos ao codar 😊.</strong>
 
 
