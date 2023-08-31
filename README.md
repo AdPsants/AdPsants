@@ -1,4 +1,4 @@
-### Olá eu sou o Adriano Santos 👋 Seja bem vindo a minha exposição<br>💻 Desenvolvedor Front-End
+### Olá eu sou o Adriano Santos 👋 Seja bem vindo a minha exposição<br>💻 Desenvolvedor Back-End
 
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianopsants/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/APsants?utm_medium=android_app&utm_source=share)
